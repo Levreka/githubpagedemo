@@ -1,1 +1,1 @@
-# githubpagedemo
+# Instructor Demo
